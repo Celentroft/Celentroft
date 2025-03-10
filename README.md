@@ -4,7 +4,7 @@
 class Celentroft:
     def __init__(self) -> None:
         self.name = "Celentroft"
-        self.age = 16
+        self.age = 17
         self.spooken_languages = ['French', 'English', 'Russian', 'German']
         self.developement_languages = ['Python', 'Html', 'Css', 'Scss', 'Javascript', 'Rust', 'NodeJS', 'React']
         
